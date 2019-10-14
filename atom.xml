@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-14T06:04:53.831Z</updated>
+  <updated>2019-10-14T06:12:37.050Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/10/14/mingcheng/"/>
     <id>http://yoursite.com/2019/10/14/mingcheng/</id>
     <published>2019-10-14T05:58:30.000Z</published>
-    <updated>2019-10-14T06:04:53.831Z</updated>
+    <updated>2019-10-14T06:12:37.050Z</updated>
     
     <content type="html"><![CDATA[<p>测试是否<a href="https://www.baidu.com" target="_blank" rel="noopener">存在</a>?</p>]]></content>
     
