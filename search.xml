@@ -3,11 +3,8 @@
   <entry>
     <title>mingcheng</title>
     <url>/2019/10/14/mingcheng/</url>
-    <content><![CDATA[<p>测试是否<a href="httpbaidu.com">存在</a>?</p>
+    <content><![CDATA[<p>测试是否<a href="https://www.baidu.com" target="_blank" rel="noopener">存在</a>?</p>
 ]]></content>
-      <tags>
-        <tag>categories</tag>
-      </tags>
   </entry>
   <entry>
     <title>你好世界</title>
