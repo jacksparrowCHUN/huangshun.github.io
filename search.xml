@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>mingcheng</title>
+    <title>在windows10中安装并配置git</title>
     <url>/2019/10/14/mingcheng/</url>
-    <content><![CDATA[<p>测试是否<a href="https://www.baidu.com" target="_blank" rel="noopener">存在</a>?</p>
-]]></content>
+    <content><![CDATA[<p>在机器上部署git  /  创建版本库<br>建立ssh链接<br>配置本地储存库<br>1 新建本地存储   可以是(空/非空)文件夹, 在文件夹内执行命令<br><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="variable">$git</span> init</span><br></pre></td></tr></table></figure></p>
+<p>新建本储存库<br>2 在git 上新建仓库 ,<br>3 把本地存储库与git 的线上仓库关联    关联命令在github上显示<br>把文件添加到版本库  </p>
+<h3 id="再把文件-添加到版本库时我们要先了解-git-本地仓库的结构"><a href="#再把文件-添加到版本库时我们要先了解-git-本地仓库的结构" class="headerlink" title="再把文件 添加到版本库时我们要先了解 git 本地仓库的结构:"></a>再把文件 添加到版本库时我们要先了解 git 本地仓库的结构:</h3>]]></content>
       <categories>
-        <category>C</category>
+        <category>git</category>
       </categories>
       <tags>
         <tag>技术 名称</tag>
