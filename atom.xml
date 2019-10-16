@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-16T08:42:24.534Z</updated>
+  <updated>2019-10-16T15:11:53.453Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2019/10/14/mingcheng/"/>
     <id>http://yoursite.com/2019/10/14/mingcheng/</id>
     <published>2019-10-14T05:58:30.000Z</published>
-    <updated>2019-10-16T08:42:24.534Z</updated>
+    <updated>2019-10-16T15:11:53.453Z</updated>
     
-    <content type="html"><![CDATA[<p>在机器上部署git  /  创建版本库<br>建立ssh链接<br>配置本地储存库<br>1 新建本地存储   可以是(空/非空)文件夹, 在文件夹内执行命令<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="variable">$git</span> init</span><br></pre></td></tr></table></figure></p><p>新建本储存库<br>2 在git 上新建仓库 ,<br>3 把本地存储库与git 的线上仓库关联    关联命令在github上显示<br>把文件添加到版本库  </p><h3 id="再把文件-添加到版本库时我们要先了解-git-本地仓库的结构"><a href="#再把文件-添加到版本库时我们要先了解-git-本地仓库的结构" class="headerlink" title="再把文件 添加到版本库时我们要先了解 git 本地仓库的结构:"></a>再把文件 添加到版本库时我们要先了解 git 本地仓库的结构:</h3>]]></content>
+    <content type="html"><![CDATA[<h3 id="在机器上部署git-创建版本库"><a href="#在机器上部署git-创建版本库" class="headerlink" title="在机器上部署git / 创建版本库"></a>在机器上部署git / 创建版本库</h3><p>建立ssh链接<br>配置本地储存库<br>1 新建本地存储   可以是(空/非空)文件夹, 在文件夹内执行命令<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git init</span><br></pre></td></tr></table></figure></p><h3 id="新建本储存库"><a href="#新建本储存库" class="headerlink" title="新建本储存库"></a>新建本储存库</h3><p>2 在git 上新建仓库 ,<br>3 把本地存储库与git 的线上仓库关联    关联命令会在github上显示<br>把文件添加到版本库  </p><h3 id="再把文件-添加到版本库时-我们要先了解-git-本地仓库的结构"><a href="#再把文件-添加到版本库时-我们要先了解-git-本地仓库的结构" class="headerlink" title="再把文件 添加到版本库时 我们要先了解 git 本地仓库的结构:"></a>再把文件 添加到版本库时 我们要先了解 git 本地仓库的结构:</h3><p><img src="/blog/test/clipboard.png" class="[class names]" title="“git的工作流”}</p>"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;在机器上部署git  /  创建版本库&lt;br&gt;建立ssh链接&lt;br&gt;配置本地储存库&lt;br&gt;1 新建本地存储   可以是(空/非空)文件夹, 在文件夹内执行命令&lt;br&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;g
+        &lt;h3 id=&quot;在机器上部署git-创建版本库&quot;&gt;&lt;a href=&quot;#在机器上部署git-创建版本库&quot; class=&quot;headerlink&quot; title=&quot;在机器上部署git / 创建版本库&quot;&gt;&lt;/a&gt;在机器上部署git / 创建版本库&lt;/h3&gt;&lt;p&gt;建立ssh链接&lt;br&gt;配置本
       
     
     </summary>
