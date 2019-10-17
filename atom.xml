@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-16T15:11:53.453Z</updated>
+  <updated>2019-10-17T06:12:16.949Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>在windows10中安装并配置git</title>
-    <link href="http://yoursite.com/2019/10/14/mingcheng/"/>
-    <id>http://yoursite.com/2019/10/14/mingcheng/</id>
-    <published>2019-10-14T05:58:30.000Z</published>
-    <updated>2019-10-16T15:11:53.453Z</updated>
+    <link href="http://yoursite.com/2019/10/16/two/"/>
+    <id>http://yoursite.com/2019/10/16/two/</id>
+    <published>2019-10-16T15:33:11.000Z</published>
+    <updated>2019-10-17T06:12:16.949Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="在机器上部署git-创建版本库"><a href="#在机器上部署git-创建版本库" class="headerlink" title="在机器上部署git / 创建版本库"></a>在机器上部署git / 创建版本库</h3><p>建立ssh链接<br>配置本地储存库<br>1 新建本地存储   可以是(空/非空)文件夹, 在文件夹内执行命令<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git init</span><br></pre></td></tr></table></figure></p><h3 id="新建本储存库"><a href="#新建本储存库" class="headerlink" title="新建本储存库"></a>新建本储存库</h3><p>2 在git 上新建仓库 ,<br>3 把本地存储库与git 的线上仓库关联    关联命令会在github上显示<br>把文件添加到版本库  </p><h3 id="再把文件-添加到版本库时-我们要先了解-git-本地仓库的结构"><a href="#再把文件-添加到版本库时-我们要先了解-git-本地仓库的结构" class="headerlink" title="再把文件 添加到版本库时 我们要先了解 git 本地仓库的结构:"></a>再把文件 添加到版本库时 我们要先了解 git 本地仓库的结构:</h3><p><img src="/blog/test/clipboard.png" class="[class names]" title="“git的工作流”}</p>"></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="在机器上部署git-创建版本库"><a href="#在机器上部署git-创建版本库" class="headerlink" title="在机器上部署git / 创建版本库"></a>在机器上部署git / 创建版本库</h3><p>建立ssh链接<br>配置本地储存库<br>1、新建本地存储   可以是(空/非空)文件夹, 在文件夹内执行命令<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git init</span><br></pre></td></tr></table></figure></p><h3 id="新建本储存库"><a href="#新建本储存库" class="headerlink" title="新建本储存库"></a>新建本储存库</h3><p>2、在git 上新建仓库 ,<br>3、把本地存储库与git 的线上仓库关联    关联命令会在github上显示<br>把文件添加到版本库  </p><h3 id="再把文件-添加到版本库时-我们要先了解-git-本地仓库的结构"><a href="#再把文件-添加到版本库时-我们要先了解-git-本地仓库的结构" class="headerlink" title="再把文件 添加到版本库时 我们要先了解 git 本地仓库的结构:"></a>再把文件 添加到版本库时 我们要先了解 git 本地仓库的结构:</h3><p><img src="/2019/10/16/two/clipboard.png" alt="结构树"></p>]]></content>
     
     <summary type="html">
     
@@ -31,6 +31,25 @@
       
         &lt;h3 id=&quot;在机器上部署git-创建版本库&quot;&gt;&lt;a href=&quot;#在机器上部署git-创建版本库&quot; class=&quot;headerlink&quot; title=&quot;在机器上部署git / 创建版本库&quot;&gt;&lt;/a&gt;在机器上部署git / 创建版本库&lt;/h3&gt;&lt;p&gt;建立ssh链接&lt;br&gt;配置本
       
+    
+    </summary>
+    
+    
+      <category term="git" scheme="http://yoursite.com/categories/git/"/>
+    
+    
+      <category term="博客创建" scheme="http://yoursite.com/tags/%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2019/10/14/mingcheng/"/>
+    <id>http://yoursite.com/2019/10/14/mingcheng/</id>
+    <published>2019-10-14T05:58:30.000Z</published>
+    <updated>2019-10-16T15:35:58.914Z</updated>
+    
+    <summary type="html">
     
     </summary>
     
